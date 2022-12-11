@@ -1,0 +1,11 @@
+A.What is reverse-i-search in a Linux terminal?
+Ans:It is  mainly used to search our commond history with a query.We can activate it using Ctrl+r find the matches and to find the next one we have to hit Ctrl+r again.
+
+B. How do you list out the hidden directories using Linux command line tool?
+Ans:To show hidden directories we can use the “find” command and specify the “d” type.   $ find . -name ".*" -maxdepth 1 -type d 2> /dev/null 
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc? 
+Ans: I pretty comfortable because I used linux  is flexible to use . 
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)? 
+Ans:I used node js and express for my stackoverflow clone project.
